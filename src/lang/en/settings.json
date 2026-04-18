@@ -80,6 +80,7 @@
   "preview_download_by_default": "Preview download by default",
   "privacy_regs": "Privacy regs",
   "proxy_ignore_headers": "Proxy ignore headers",
+  "proxy_client_ip_header": "Proxy Client IP Header",
   "proxy_max_concurrent_requests_per_ip": "Proxy max concurrent requests per IP",
   "proxy_types": "Proxy types",
   "qbittorrent_seedtime": "qBittorrent seedtime",
